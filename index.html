@@ -7,29 +7,53 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        header {
+            background-color: #004080;
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 80%;
+            margin: 30px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1);
         }
         .tabs {
             display: flex;
             cursor: pointer;
             margin-bottom: 20px;
+            border-bottom: 2px solid #ddd;
         }
         .tab {
             padding: 10px 20px;
-            border: 1px solid #ddd;
-            margin-right: 5px;
             border-radius: 5px 5px 0 0;
             background-color: #f4f4f4;
+            margin-right: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .tab:hover {
+            background-color: #e0e0e0;
         }
         .tab.active {
             background-color: #ffffff;
             border-bottom: none;
+            font-weight: bold;
         }
         .tab-content {
             display: none;
-            border: 1px solid #ddd;
-            border-radius: 0 5px 5px 5px;
             padding: 20px;
         }
         .tab-content.active {
@@ -41,61 +65,81 @@
             margin-top: 20px;
         }
         th, td {
-            padding: 10px;
+            padding: 15px;
             text-align: center;
             border: 1px solid #ddd;
         }
         th {
-            background-color: #f4f4f4;
+            background-color: #004080;
+            color: #ffffff;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
         }
         .correct {
             color: green;
+            font-weight: bold;
         }
         .incorrect {
             color: red;
+            font-weight: bold;
+        }
+        .fade-in {
+            animation: fadeIn 0.5s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
     </style>
 </head>
 <body>
 
-    <h1>Welcome to MLB Predictions</h1>
+    <header>
+        <h1>MLB Predictions</h1>
+    </header>
 
-    <div class="tabs">
-        <div class="tab active" data-tab="past">Past Predictions</div>
-        <div class="tab" data-tab="future">Future Predictions</div>
-    </div>
+    <div class="container">
+        <div class="tabs">
+            <div class="tab active" data-tab="past">Past Predictions</div>
+            <div class="tab" data-tab="future">Future Predictions</div>
+        </div>
 
-    <div id="past" class="tab-content active">
-        <h2>Past Predictions</h2>
-        <table id="past-predictions-table">
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Home Team</th>
-                    <th>Away Team</th>
-                    <th>Predicted Winner</th>
-                    <th>Correct/Incorrect</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
-    </div>
+        <div id="past" class="tab-content active fade-in">
+            <h2>Past Predictions</h2>
+            <table id="past-predictions-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Home Team</th>
+                        <th>Away Team</th>
+                        <th>Predicted Winner</th>
+                        <th>Correct/Incorrect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
 
-    <div id="future" class="tab-content">
-        <h2>Future Predictions</h2>
-        <table id="future-predictions-table">
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Home Team</th>
-                    <th>Away Team</th>
-                    <th>Predicted Winner</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
+        <div id="future" class="tab-content fade-in">
+            <h2>Future Predictions</h2>
+            <table id="future-predictions-table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Home Team</th>
+                        <th>Away Team</th>
+                        <th>Predicted Winner</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
     </div>
 
     <script>
@@ -106,8 +150,8 @@
                 complete: function(results) {
                     var tableBody = document.querySelector(tableId + " tbody");
                     results.data.forEach(function(row) {
-                        // Skip rows with missing values
-                        if (!row['DateTime'] || !row['HomeTeam'] || !row['AwayTeam'] || !row['PredictedWinner'] || (isPast && !row['Correct'])) {
+                        // Skip rows with missing core values, but allow missing 'Correct' for past predictions
+                        if (!row['DateTime'] || !row['HomeTeam'] || !row['AwayTeam'] || !row['PredictedWinner']) {
                             return;
                         }
 
@@ -133,10 +177,12 @@
                             var correctCell = document.createElement("td");
                             if (row['Correct'] === "Correct") {
                                 correctCell.textContent = "Correct";
-                                correctCell.classList.add("correct");
+                                correctCell.classList.add("correct"); // Applies green color
                             } else if (row['Correct'] === "Incorrect") {
                                 correctCell.textContent = "Incorrect";
-                                correctCell.classList.add("incorrect");
+                                correctCell.classList.add("incorrect"); // Applies red color
+                            } else {
+                                correctCell.textContent = "N/A";
                             }
                             tr.appendChild(correctCell);
                         }

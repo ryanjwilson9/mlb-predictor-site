@@ -48,6 +48,12 @@
         th {
             background-color: #f4f4f4;
         }
+        .correct {
+            color: green;
+        }
+        .incorrect {
+            color: red;
+        }
     </style>
 </head>
 <body>
@@ -100,6 +106,11 @@
                 complete: function(results) {
                     var tableBody = document.querySelector(tableId + " tbody");
                     results.data.forEach(function(row) {
+                        // Skip rows with missing values
+                        if (!row['DateTime'] || !row['HomeTeam'] || !row['AwayTeam'] || !row['PredictedWinner'] || (isPast && !row['Correct'])) {
+                            return;
+                        }
+
                         var tr = document.createElement("tr");
 
                         var dateCell = document.createElement("td");
@@ -120,7 +131,13 @@
 
                         if (isPast) {
                             var correctCell = document.createElement("td");
-                            correctCell.textContent = row['Correct'];
+                            if (row['Correct'] === "Correct") {
+                                correctCell.textContent = "Correct";
+                                correctCell.classList.add("correct");
+                            } else if (row['Correct'] === "Incorrect") {
+                                correctCell.textContent = "Incorrect";
+                                correctCell.classList.add("incorrect");
+                            }
                             tr.appendChild(correctCell);
                         }
 

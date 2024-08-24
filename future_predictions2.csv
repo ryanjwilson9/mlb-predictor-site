@@ -1,0 +1,515 @@
+GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner
+72640,4,2,2024-08-23T18:40:00,Pirates,Reds,Reds
+72643,19,30,2024-08-23T19:05:00,Orioles,Astros,Astros
+72641,29,23,2024-08-23T19:05:00,Yankees,Rockies,Rockies
+72637,3,21,2024-08-23T19:07:00,Blue Jays,Angels,Angels
+72638,25,14,2024-08-23T19:10:00,Red Sox,Diamondbacks,Diamondbacks
+72650,10,28,2024-08-23T19:10:00,Guardians,Rangers,Rangers
+72639,22,9,2024-08-23T19:10:00,Marlins,Cubs,Cubs
+72651,26,35,2024-08-23T19:20:00,Braves,Nationals,Nationals
+72642,16,17,2024-08-23T20:10:00,White Sox,Tigers,Tigers
+72646,5,12,2024-08-23T20:10:00,Royals,Phillies,Phillies
+72648,20,31,2024-08-23T20:10:00,Twins,Cardinals,Cardinals
+72644,24,32,2024-08-23T21:40:00,Athletics,Brewers,Brewers
+72645,33,18,2024-08-23T21:40:00,Padres,Mets,Mets
+72649,1,11,2024-08-23T22:10:00,Dodgers,Rays,Rays
+72647,13,15,2024-08-23T22:10:00,Mariners,Giants,Giants
+72656,29,23,2024-08-24T14:05:00,Yankees,Rockies,Rockies
+72652,3,21,2024-08-24T15:07:00,Blue Jays,Angels,Angels
+72658,19,30,2024-08-24T16:05:00,Orioles,Astros,Astros
+72659,24,32,2024-08-24T16:07:00,Athletics,Brewers,Brewers
+72653,25,14,2024-08-24T16:10:00,Red Sox,Diamondbacks,Diamondbacks
+72654,22,9,2024-08-24T16:10:00,Marlins,Cubs,Cubs
+72662,13,15,2024-08-24T16:10:00,Mariners,Giants,Giants
+72655,4,2,2024-08-24T18:40:00,Pirates,Reds,Reds
+72657,16,17,2024-08-24T19:10:00,White Sox,Tigers,Tigers
+72665,10,28,2024-08-24T19:10:00,Guardians,Rangers,Rangers
+72661,5,12,2024-08-24T19:10:00,Royals,Phillies,Phillies
+72663,20,31,2024-08-24T19:10:00,Twins,Cardinals,Cardinals
+72666,26,35,2024-08-24T19:20:00,Braves,Nationals,Nationals
+72660,33,18,2024-08-24T20:40:00,Padres,Mets,Mets
+72664,1,11,2024-08-24T21:10:00,Dodgers,Rays,Rays
+72681,26,35,2024-08-25T12:05:00,Braves,Nationals,Nationals
+72668,25,14,2024-08-25T13:35:00,Red Sox,Diamondbacks,Diamondbacks
+72671,29,23,2024-08-25T13:35:00,Yankees,Rockies,Rockies
+72670,4,2,2024-08-25T13:35:00,Pirates,Reds,Reds
+72667,3,21,2024-08-25T13:37:00,Blue Jays,Angels,Angels
+72680,10,28,2024-08-25T13:40:00,Guardians,Rangers,Rangers
+72669,22,9,2024-08-25T13:40:00,Marlins,Cubs,Cubs
+72672,16,17,2024-08-25T14:10:00,White Sox,Tigers,Tigers
+72676,5,12,2024-08-25T14:10:00,Royals,Phillies,Phillies
+72678,20,31,2024-08-25T14:10:00,Twins,Cardinals,Cardinals
+72674,24,32,2024-08-25T16:07:00,Athletics,Brewers,Brewers
+72679,1,11,2024-08-25T16:10:00,Dodgers,Rays,Rays
+72675,33,18,2024-08-25T16:10:00,Padres,Mets,Mets
+72677,13,15,2024-08-25T16:10:00,Mariners,Giants,Giants
+72673,19,30,2024-08-25T19:10:00,Orioles,Astros,Astros
+72686,10,5,2024-08-26T13:10:00,Guardians,Royals,Royals
+73736,10,5,2024-08-26T18:40:00,Guardians,Royals,Royals
+72685,12,30,2024-08-26T18:40:00,Phillies,Astros,Astros
+72683,4,9,2024-08-26T18:40:00,Pirates,Cubs,Cubs
+72688,35,29,2024-08-26T18:45:00,Nationals,Yankees,Yankees
+72691,25,3,2024-08-26T19:10:00,Red Sox,Blue Jays,Blue Jays
+72682,20,26,2024-08-26T19:40:00,Twins,Braves,Braves
+72689,31,33,2024-08-26T19:45:00,Cardinals,Padres,Padres
+72684,16,17,2024-08-26T20:10:00,White Sox,Tigers,Tigers
+72687,23,22,2024-08-26T20:40:00,Rockies,Marlins,Marlins
+72690,13,11,2024-08-26T21:40:00,Mariners,Rays,Rays
+72701,2,24,2024-08-27T18:40:00,Reds,Athletics,Athletics
+72697,10,5,2024-08-27T18:40:00,Guardians,Royals,Royals
+72692,17,21,2024-08-27T18:40:00,Tigers,Angels,Angels
+72696,12,30,2024-08-27T18:40:00,Phillies,Astros,Astros
+72695,4,9,2024-08-27T18:40:00,Pirates,Cubs,Cubs
+72699,35,29,2024-08-27T18:45:00,Nationals,Yankees,Yankees
+72706,25,3,2024-08-27T19:10:00,Red Sox,Blue Jays,Blue Jays
+72693,20,26,2024-08-27T19:40:00,Twins,Braves,Braves
+72702,31,33,2024-08-27T19:45:00,Cardinals,Padres,Padres
+72705,16,28,2024-08-27T20:10:00,White Sox,Rangers,Rangers
+72703,32,15,2024-08-27T20:10:00,Brewers,Giants,Giants
+72698,23,22,2024-08-27T20:40:00,Rockies,Marlins,Marlins
+72700,14,18,2024-08-27T21:40:00,Diamondbacks,Mets,Mets
+72704,13,11,2024-08-27T21:40:00,Mariners,Rays,Rays
+72694,1,19,2024-08-27T22:10:00,Dodgers,Orioles,Orioles
+72710,4,9,2024-08-28T12:35:00,Pirates,Cubs,Cubs
+72712,10,5,2024-08-28T13:10:00,Guardians,Royals,Royals
+72711,12,30,2024-08-28T16:05:00,Phillies,Astros,Astros
+72719,13,11,2024-08-28T16:10:00,Mariners,Rays,Rays
+72716,2,24,2024-08-28T18:40:00,Reds,Athletics,Athletics
+72707,17,21,2024-08-28T18:40:00,Tigers,Angels,Angels
+72714,35,29,2024-08-28T18:45:00,Nationals,Yankees,Yankees
+72721,25,3,2024-08-28T19:10:00,Red Sox,Blue Jays,Blue Jays
+72708,20,26,2024-08-28T19:40:00,Twins,Braves,Braves
+72717,31,33,2024-08-28T19:45:00,Cardinals,Padres,Padres
+72720,16,28,2024-08-28T20:10:00,White Sox,Rangers,Rangers
+72718,32,15,2024-08-28T20:10:00,Brewers,Giants,Giants
+72713,23,22,2024-08-28T20:40:00,Rockies,Marlins,Marlins
+72715,14,18,2024-08-28T21:40:00,Diamondbacks,Mets,Mets
+72709,1,19,2024-08-28T22:10:00,Dodgers,Orioles,Orioles
+72722,17,21,2024-08-29T13:10:00,Tigers,Angels,Angels
+72731,16,28,2024-08-29T14:10:00,White Sox,Rangers,Rangers
+72730,32,15,2024-08-29T14:10:00,Brewers,Giants,Giants
+72729,31,33,2024-08-29T14:15:00,Cardinals,Padres,Padres
+72726,23,22,2024-08-29T15:10:00,Rockies,Marlins,Marlins
+72727,14,18,2024-08-29T15:40:00,Diamondbacks,Mets,Mets
+72728,2,24,2024-08-29T17:10:00,Reds,Athletics,Athletics
+72723,12,26,2024-08-29T18:40:00,Phillies,Braves,Braves
+72732,25,3,2024-08-29T19:10:00,Red Sox,Blue Jays,Blue Jays
+72725,30,5,2024-08-29T20:10:00,Astros,Royals,Royals
+72724,1,19,2024-08-29T22:10:00,Dodgers,Orioles,Orioles
+72740,2,32,2024-08-30T12:40:00,Reds,Brewers,Brewers
+73723,2,32,2024-08-30T18:40:00,Reds,Brewers,Brewers
+72735,17,25,2024-08-30T18:40:00,Tigers,Red Sox,Red Sox
+72733,12,26,2024-08-30T18:40:00,Phillies,Braves,Braves
+72736,35,9,2024-08-30T18:45:00,Nationals,Cubs,Cubs
+72744,11,33,2024-08-30T18:50:00,Rays,Padres,Padres
+72746,29,31,2024-08-30T19:05:00,Yankees,Cardinals,Cardinals
+72743,10,4,2024-08-30T19:10:00,Guardians,Pirates,Pirates
+72742,28,24,2024-08-30T20:05:00,Rangers,Athletics,Athletics
+72741,16,18,2024-08-30T20:10:00,White Sox,Mets,Mets
+72737,30,5,2024-08-30T20:10:00,Astros,Royals,Royals
+72747,20,3,2024-08-30T20:10:00,Twins,Blue Jays,Blue Jays
+72734,23,19,2024-08-30T20:40:00,Rockies,Orioles,Orioles
+72745,21,13,2024-08-30T21:38:00,Angels,Mariners,Mariners
+72738,14,1,2024-08-30T21:40:00,Diamondbacks,Dodgers,Dodgers
+72739,15,22,2024-08-30T22:15:00,Giants,Marlins,Marlins
+72761,29,31,2024-08-31T13:05:00,Yankees,Cardinals,Cardinals
+72751,35,9,2024-08-31T16:05:00,Nationals,Cubs,Cubs
+72759,11,33,2024-08-31T16:10:00,Rays,Padres,Padres
+72758,10,4,2024-08-31T18:10:00,Guardians,Pirates,Pirates
+72750,17,25,2024-08-31T18:10:00,Tigers,Red Sox,Red Sox
+72757,28,24,2024-08-31T19:05:00,Rangers,Athletics,Athletics
+72756,16,18,2024-08-31T19:10:00,White Sox,Mets,Mets
+72752,30,5,2024-08-31T19:10:00,Astros,Royals,Royals
+72762,20,3,2024-08-31T19:10:00,Twins,Blue Jays,Blue Jays
+72755,2,32,2024-08-31T19:15:00,Reds,Brewers,Brewers
+72748,12,26,2024-08-31T19:15:00,Phillies,Braves,Braves
+72753,14,1,2024-08-31T20:10:00,Diamondbacks,Dodgers,Dodgers
+72749,23,19,2024-08-31T20:10:00,Rockies,Orioles,Orioles
+72754,15,22,2024-08-31T21:05:00,Giants,Marlins,Marlins
+72760,21,13,2024-08-31T21:38:00,Angels,Mariners,Mariners
+72770,2,32,2024-09-01T12:10:00,Reds,Brewers,Brewers
+72776,29,31,2024-09-01T13:35:00,Yankees,Cardinals,Cardinals
+72766,35,9,2024-09-01T13:35:00,Nationals,Cubs,Cubs
+72773,10,4,2024-09-01T13:40:00,Guardians,Pirates,Pirates
+72765,17,25,2024-09-01T13:40:00,Tigers,Red Sox,Red Sox
+72774,11,33,2024-09-01T13:40:00,Rays,Padres,Padres
+72771,16,18,2024-09-01T14:10:00,White Sox,Mets,Mets
+72767,30,5,2024-09-01T14:10:00,Astros,Royals,Royals
+72777,20,3,2024-09-01T14:10:00,Twins,Blue Jays,Blue Jays
+72772,28,24,2024-09-01T14:35:00,Rangers,Athletics,Athletics
+72764,23,19,2024-09-01T15:10:00,Rockies,Orioles,Orioles
+72769,15,22,2024-09-01T16:05:00,Giants,Marlins,Marlins
+72775,21,13,2024-09-01T16:07:00,Angels,Mariners,Mariners
+72768,14,1,2024-09-01T16:10:00,Diamondbacks,Dodgers,Dodgers
+72763,12,26,2024-09-01T19:10:00,Phillies,Braves,Braves
+72788,32,31,2024-09-02T14:10:00,Brewers,Cardinals,Cardinals
+72779,19,16,2024-09-02T15:05:00,Orioles,White Sox,White Sox
+72783,14,1,2024-09-02T16:10:00,Diamondbacks,Dodgers,Dodgers
+72782,2,30,2024-09-02T16:10:00,Reds,Astros,Astros
+72780,5,10,2024-09-02T16:10:00,Royals,Guardians,Guardians
+72781,33,17,2024-09-02T18:40:00,Padres,Tigers,Tigers
+72784,11,20,2024-09-02T18:50:00,Rays,Twins,Twins
+72787,24,13,2024-09-02T19:07:00,Athletics,Mariners,Mariners
+72778,18,25,2024-09-02T19:10:00,Mets,Red Sox,Red Sox
+72786,9,4,2024-09-02T19:40:00,Cubs,Pirates,Pirates
+72785,28,29,2024-09-02T20:05:00,Rangers,Yankees,Yankees
+72791,19,16,2024-09-03T18:35:00,Orioles,White Sox,White Sox
+72801,22,35,2024-09-03T18:40:00,Marlins,Nationals,Nationals
+72795,11,20,2024-09-03T18:50:00,Rays,Twins,Twins
+72797,3,12,2024-09-03T19:07:00,Blue Jays,Phillies,Phillies
+72790,18,25,2024-09-03T19:10:00,Mets,Red Sox,Red Sox
+72793,26,23,2024-09-03T19:20:00,Braves,Rockies,Rockies
+72798,9,4,2024-09-03T19:40:00,Cubs,Pirates,Pirates
+72792,5,10,2024-09-03T19:40:00,Royals,Guardians,Guardians
+72800,32,31,2024-09-03T19:40:00,Brewers,Cardinals,Cardinals
+72796,28,29,2024-09-03T20:05:00,Rangers,Yankees,Yankees
+72794,21,1,2024-09-03T21:38:00,Angels,Dodgers,Dodgers
+72799,24,13,2024-09-03T21:40:00,Athletics,Mariners,Mariners
+72789,15,14,2024-09-03T21:45:00,Giants,Diamondbacks,Diamondbacks
+72812,3,12,2024-09-04T15:07:00,Blue Jays,Phillies,Phillies
+72804,19,16,2024-09-04T18:35:00,Orioles,White Sox,White Sox
+72808,2,30,2024-09-04T18:40:00,Reds,Astros,Astros
+72816,22,35,2024-09-04T18:40:00,Marlins,Nationals,Nationals
+72810,11,20,2024-09-04T18:50:00,Rays,Twins,Twins
+72803,18,25,2024-09-04T19:10:00,Mets,Red Sox,Red Sox
+72806,26,23,2024-09-04T19:20:00,Braves,Rockies,Rockies
+72813,9,4,2024-09-04T19:40:00,Cubs,Pirates,Pirates
+72805,5,10,2024-09-04T19:40:00,Royals,Guardians,Guardians
+72815,32,31,2024-09-04T19:40:00,Brewers,Cardinals,Cardinals
+72811,28,29,2024-09-04T20:05:00,Rangers,Yankees,Yankees
+72809,21,1,2024-09-04T21:38:00,Angels,Dodgers,Dodgers
+72814,24,13,2024-09-04T21:40:00,Athletics,Mariners,Mariners
+72807,33,17,2024-09-04T21:40:00,Padres,Tigers,Tigers
+72802,15,14,2024-09-04T21:45:00,Giants,Diamondbacks,Diamondbacks
+72821,2,30,2024-09-05T13:10:00,Reds,Astros,Astros
+72822,11,20,2024-09-05T13:10:00,Rays,Twins,Twins
+72824,24,13,2024-09-05T15:37:00,Athletics,Mariners,Mariners
+72818,15,14,2024-09-05T15:45:00,Giants,Diamondbacks,Diamondbacks
+72823,22,12,2024-09-05T18:40:00,Marlins,Phillies,Phillies
+72825,4,35,2024-09-05T18:40:00,Pirates,Nationals,Nationals
+72819,26,23,2024-09-05T19:20:00,Braves,Rockies,Rockies
+72817,28,21,2024-09-05T20:05:00,Rangers,Angels,Angels
+72820,33,17,2024-09-05T20:40:00,Padres,Tigers,Tigers
+72834,9,29,2024-09-06T14:20:00,Cubs,Yankees,Yankees
+72831,32,23,2024-09-06T18:10:00,Brewers,Rockies,Rockies
+72840,4,35,2024-09-06T18:40:00,Pirates,Nationals,Nationals
+72838,19,11,2024-09-06T19:05:00,Orioles,Rays,Rays
+72828,25,16,2024-09-06T19:10:00,Red Sox,White Sox,White Sox
+72835,22,12,2024-09-06T19:10:00,Marlins,Phillies,Phillies
+72829,18,2,2024-09-06T19:10:00,Mets,Reds,Reds
+72839,26,3,2024-09-06T19:20:00,Braves,Blue Jays,Blue Jays
+72826,28,21,2024-09-06T20:05:00,Rangers,Angels,Angels
+72827,30,14,2024-09-06T20:10:00,Astros,Diamondbacks,Diamondbacks
+72833,5,20,2024-09-06T20:10:00,Royals,Twins,Twins
+72836,31,13,2024-09-06T20:15:00,Cardinals,Mariners,Mariners
+72832,24,17,2024-09-06T21:40:00,Athletics,Tigers,Tigers
+72837,33,15,2024-09-06T21:40:00,Padres,Giants,Giants
+72830,1,10,2024-09-06T22:10:00,Dodgers,Guardians,Guardians
+72849,9,29,2024-09-07T14:20:00,Cubs,Yankees,Yankees
+72853,19,11,2024-09-07T16:05:00,Orioles,Rays,Rays
+72847,24,17,2024-09-07T16:07:00,Athletics,Tigers,Tigers
+72842,30,14,2024-09-07T16:10:00,Astros,Diamondbacks,Diamondbacks
+72850,22,12,2024-09-07T16:10:00,Marlins,Phillies,Phillies
+72844,18,2,2024-09-07T16:10:00,Mets,Reds,Reds
+72855,4,35,2024-09-07T18:40:00,Pirates,Nationals,Nationals
+72841,28,21,2024-09-07T19:05:00,Rangers,Angels,Angels
+72846,32,23,2024-09-07T19:10:00,Brewers,Rockies,Rockies
+72843,25,16,2024-09-07T19:15:00,Red Sox,White Sox,White Sox
+72848,5,20,2024-09-07T19:15:00,Royals,Twins,Twins
+72851,31,13,2024-09-07T19:15:00,Cardinals,Mariners,Mariners
+72854,26,3,2024-09-07T19:20:00,Braves,Blue Jays,Blue Jays
+72852,33,15,2024-09-07T20:40:00,Padres,Giants,Giants
+72845,1,10,2024-09-07T21:10:00,Dodgers,Guardians,Guardians
+72868,19,11,2024-09-08T12:05:00,Orioles,Rays,Rays
+72869,26,3,2024-09-08T13:35:00,Braves,Blue Jays,Blue Jays
+72858,25,16,2024-09-08T13:35:00,Red Sox,White Sox,White Sox
+72870,4,35,2024-09-08T13:35:00,Pirates,Nationals,Nationals
+72865,22,12,2024-09-08T13:40:00,Marlins,Phillies,Phillies
+72859,18,2,2024-09-08T13:40:00,Mets,Reds,Reds
+72857,30,14,2024-09-08T14:10:00,Astros,Diamondbacks,Diamondbacks
+72863,5,20,2024-09-08T14:10:00,Royals,Twins,Twins
+72861,32,23,2024-09-08T14:10:00,Brewers,Rockies,Rockies
+72866,31,13,2024-09-08T14:15:00,Cardinals,Mariners,Mariners
+72864,9,29,2024-09-08T14:20:00,Cubs,Yankees,Yankees
+72856,28,21,2024-09-08T14:35:00,Rangers,Angels,Angels
+72862,24,17,2024-09-08T16:07:00,Athletics,Tigers,Tigers
+72860,1,10,2024-09-08T16:10:00,Dodgers,Guardians,Guardians
+72867,33,15,2024-09-08T16:10:00,Padres,Giants,Giants
+73753,26,2,2024-09-09T18:40:00,Braves,Reds,Reds
+72878,12,11,2024-09-09T18:40:00,Phillies,Rays,Rays
+72876,4,22,2024-09-09T18:40:00,Pirates,Marlins,Marlins
+72875,29,5,2024-09-09T19:05:00,Yankees,Royals,Royals
+72877,3,18,2024-09-09T19:07:00,Blue Jays,Mets,Mets
+72872,25,19,2024-09-09T19:10:00,Red Sox,Orioles,Orioles
+72874,16,10,2024-09-09T19:40:00,White Sox,Guardians,Guardians
+72871,20,21,2024-09-09T19:40:00,Twins,Angels,Angels
+72873,1,9,2024-09-09T22:10:00,Dodgers,Cubs,Cubs
+72885,17,23,2024-09-10T18:40:00,Tigers,Rockies,Rockies
+72892,12,11,2024-09-10T18:40:00,Phillies,Rays,Rays
+72887,4,22,2024-09-10T18:40:00,Pirates,Marlins,Marlins
+72880,35,26,2024-09-10T18:45:00,Nationals,Braves,Braves
+72886,29,5,2024-09-10T19:05:00,Yankees,Royals,Royals
+72889,3,18,2024-09-10T19:07:00,Blue Jays,Mets,Mets
+72881,25,19,2024-09-10T19:10:00,Red Sox,Orioles,Orioles
+72884,16,10,2024-09-10T19:40:00,White Sox,Guardians,Guardians
+72879,20,21,2024-09-10T19:40:00,Twins,Angels,Angels
+72883,31,2,2024-09-10T19:45:00,Cardinals,Reds,Reds
+72890,30,24,2024-09-10T20:10:00,Astros,Athletics,Athletics
+72893,14,28,2024-09-10T21:40:00,Diamondbacks,Rangers,Rangers
+72891,13,33,2024-09-10T21:40:00,Mariners,Padres,Padres
+72888,15,32,2024-09-10T21:45:00,Giants,Brewers,Brewers
+72882,1,9,2024-09-10T22:10:00,Dodgers,Cubs,Cubs
+72902,4,22,2024-09-11T12:35:00,Pirates,Marlins,Marlins
+72899,16,10,2024-09-11T14:10:00,White Sox,Guardians,Guardians
+72904,3,18,2024-09-11T15:07:00,Blue Jays,Mets,Mets
+72908,14,28,2024-09-11T15:40:00,Diamondbacks,Rangers,Rangers
+72900,17,23,2024-09-11T18:40:00,Tigers,Rockies,Rockies
+72907,12,11,2024-09-11T18:40:00,Phillies,Rays,Rays
+72895,35,26,2024-09-11T18:45:00,Nationals,Braves,Braves
+72901,29,5,2024-09-11T19:05:00,Yankees,Royals,Royals
+72896,25,19,2024-09-11T19:10:00,Red Sox,Orioles,Orioles
+72894,20,21,2024-09-11T19:10:00,Twins,Angels,Angels
+72898,31,2,2024-09-11T19:45:00,Cardinals,Reds,Reds
+72905,30,24,2024-09-11T20:10:00,Astros,Athletics,Athletics
+72906,13,33,2024-09-11T21:40:00,Mariners,Padres,Padres
+72903,15,32,2024-09-11T21:45:00,Giants,Brewers,Brewers
+72897,1,9,2024-09-11T22:10:00,Dodgers,Cubs,Cubs
+72911,17,23,2024-09-12T13:10:00,Tigers,Rockies,Rockies
+72910,31,2,2024-09-12T13:15:00,Cardinals,Reds,Reds
+72914,30,24,2024-09-12T14:10:00,Astros,Athletics,Athletics
+72912,35,22,2024-09-12T18:45:00,Nationals,Marlins,Marlins
+72915,10,11,2024-09-12T19:15:00,Guardians,Rays,Rays
+72909,29,25,2024-09-12T19:15:00,Yankees,Red Sox,Red Sox
+72916,13,28,2024-09-12T21:40:00,Mariners,Rangers,Rangers
+72913,15,32,2024-09-12T21:45:00,Giants,Brewers,Brewers
+72917,17,19,2024-09-13T18:40:00,Tigers,Orioles,Orioles
+72926,12,18,2024-09-13T18:40:00,Phillies,Mets,Mets
+72922,4,5,2024-09-13T18:40:00,Pirates,Royals,Royals
+72924,35,22,2024-09-13T18:45:00,Nationals,Marlins,Marlins
+72918,29,25,2024-09-13T19:05:00,Yankees,Red Sox,Red Sox
+72929,3,31,2024-09-13T19:07:00,Blue Jays,Cardinals,Cardinals
+72930,10,11,2024-09-13T19:10:00,Guardians,Rays,Rays
+72923,26,1,2024-09-13T19:20:00,Braves,Dodgers,Dodgers
+72927,16,24,2024-09-13T19:40:00,White Sox,Athletics,Athletics
+72920,20,2,2024-09-13T20:10:00,Twins,Reds,Reds
+72919,23,9,2024-09-13T20:40:00,Rockies,Cubs,Cubs
+72921,21,30,2024-09-13T21:38:00,Angels,Astros,Astros
+72925,14,32,2024-09-13T21:40:00,Diamondbacks,Brewers,Brewers
+72931,13,28,2024-09-13T22:10:00,Mariners,Rangers,Rangers
+72928,15,33,2024-09-13T22:15:00,Giants,Padres,Padres
+72933,29,25,2024-09-14T13:05:00,Yankees,Red Sox,Red Sox
+72937,4,5,2024-09-14T13:05:00,Pirates,Royals,Royals
+72944,3,31,2024-09-14T15:07:00,Blue Jays,Cardinals,Cardinals
+72941,12,18,2024-09-14T16:05:00,Phillies,Mets,Mets
+72939,35,22,2024-09-14T16:05:00,Nationals,Marlins,Marlins
+72945,10,11,2024-09-14T18:10:00,Guardians,Rays,Rays
+72932,17,19,2024-09-14T18:10:00,Tigers,Orioles,Orioles
+72942,16,24,2024-09-14T19:10:00,White Sox,Athletics,Athletics
+72935,20,2,2024-09-14T19:10:00,Twins,Reds,Reds
+72938,26,1,2024-09-14T19:20:00,Braves,Dodgers,Dodgers
+72940,14,32,2024-09-14T20:10:00,Diamondbacks,Brewers,Brewers
+72934,23,9,2024-09-14T20:10:00,Rockies,Cubs,Cubs
+72943,15,33,2024-09-14T21:05:00,Giants,Padres,Padres
+72936,21,30,2024-09-14T21:38:00,Angels,Astros,Astros
+72946,13,28,2024-09-14T21:40:00,Mariners,Rangers,Rangers
+72947,17,19,2024-09-15T12:10:00,Tigers,Orioles,Orioles
+72950,20,2,2024-09-15T13:05:00,Twins,Reds,Reds
+72948,29,25,2024-09-15T13:35:00,Yankees,Red Sox,Red Sox
+72956,12,18,2024-09-15T13:35:00,Phillies,Mets,Mets
+72952,4,5,2024-09-15T13:35:00,Pirates,Royals,Royals
+72954,35,22,2024-09-15T13:35:00,Nationals,Marlins,Marlins
+72959,3,31,2024-09-15T13:37:00,Blue Jays,Cardinals,Cardinals
+72960,10,11,2024-09-15T13:40:00,Guardians,Rays,Rays
+72957,16,24,2024-09-15T14:10:00,White Sox,Athletics,Athletics
+72949,23,9,2024-09-15T15:10:00,Rockies,Cubs,Cubs
+72958,15,33,2024-09-15T16:05:00,Giants,Padres,Padres
+72951,21,30,2024-09-15T16:07:00,Angels,Astros,Astros
+72955,14,32,2024-09-15T16:10:00,Diamondbacks,Brewers,Brewers
+72961,13,28,2024-09-15T16:10:00,Mariners,Rangers,Rangers
+72953,26,1,2024-09-15T19:10:00,Braves,Dodgers,Dodgers
+72967,10,20,2024-09-16T18:40:00,Guardians,Twins,Twins
+72971,18,35,2024-09-16T19:10:00,Mets,Nationals,Nationals
+72966,26,1,2024-09-16T19:20:00,Braves,Dodgers,Dodgers
+72968,9,24,2024-09-16T19:40:00,Cubs,Athletics,Athletics
+72964,5,17,2024-09-16T19:40:00,Royals,Tigers,Tigers
+72969,32,12,2024-09-16T19:40:00,Brewers,Phillies,Phillies
+72970,31,4,2024-09-16T19:45:00,Cardinals,Pirates,Pirates
+72962,23,14,2024-09-16T20:40:00,Rockies,Diamondbacks,Diamondbacks
+72963,21,16,2024-09-16T21:38:00,Angels,White Sox,White Sox
+72965,33,30,2024-09-16T21:40:00,Padres,Astros,Astros
+72984,19,15,2024-09-17T18:35:00,Orioles,Giants,Giants
+72973,2,26,2024-09-17T18:40:00,Reds,Braves,Braves
+72979,10,20,2024-09-17T18:40:00,Guardians,Twins,Twins
+72978,22,1,2024-09-17T18:40:00,Marlins,Dodgers,Dodgers
+72974,11,25,2024-09-17T18:50:00,Rays,Red Sox,Red Sox
+72986,18,35,2024-09-17T19:10:00,Mets,Nationals,Nationals
+72981,9,24,2024-09-17T19:40:00,Cubs,Athletics,Athletics
+72976,5,17,2024-09-17T19:40:00,Royals,Tigers,Tigers
+72982,32,12,2024-09-17T19:40:00,Brewers,Phillies,Phillies
+72983,31,4,2024-09-17T19:45:00,Cardinals,Pirates,Pirates
+72985,28,3,2024-09-17T20:05:00,Rangers,Blue Jays,Blue Jays
+72972,23,14,2024-09-17T20:40:00,Rockies,Diamondbacks,Diamondbacks
+72975,21,16,2024-09-17T21:38:00,Angels,White Sox,White Sox
+72977,33,30,2024-09-17T21:40:00,Padres,Astros,Astros
+72980,13,29,2024-09-17T21:40:00,Mariners,Yankees,Yankees
+72996,9,24,2024-09-18T14:20:00,Cubs,Athletics,Athletics
+72987,23,14,2024-09-18T15:10:00,Rockies,Diamondbacks,Diamondbacks
+72990,21,16,2024-09-18T16:07:00,Angels,White Sox,White Sox
+72999,19,15,2024-09-18T18:35:00,Orioles,Giants,Giants
+72988,2,26,2024-09-18T18:40:00,Reds,Braves,Braves
+72994,10,20,2024-09-18T18:40:00,Guardians,Twins,Twins
+72993,22,1,2024-09-18T18:40:00,Marlins,Dodgers,Dodgers
+72992,33,30,2024-09-18T18:40:00,Padres,Astros,Astros
+72989,11,25,2024-09-18T18:50:00,Rays,Red Sox,Red Sox
+73001,18,35,2024-09-18T19:10:00,Mets,Nationals,Nationals
+72991,5,17,2024-09-18T19:40:00,Royals,Tigers,Tigers
+72997,32,12,2024-09-18T19:40:00,Brewers,Phillies,Phillies
+72998,31,4,2024-09-18T19:45:00,Cardinals,Pirates,Pirates
+73000,28,3,2024-09-18T20:05:00,Rangers,Blue Jays,Blue Jays
+72995,13,29,2024-09-18T21:40:00,Mariners,Yankees,Yankees
+73011,19,15,2024-09-19T13:05:00,Orioles,Giants,Giants
+73004,2,26,2024-09-19T13:10:00,Reds,Braves,Braves
+73007,10,20,2024-09-19T13:10:00,Guardians,Twins,Twins
+73012,28,3,2024-09-19T14:35:00,Rangers,Blue Jays,Blue Jays
+73008,13,29,2024-09-19T16:10:00,Mariners,Yankees,Yankees
+73006,22,1,2024-09-19T16:40:00,Marlins,Dodgers,Dodgers
+73005,11,25,2024-09-19T18:50:00,Rays,Red Sox,Red Sox
+73009,18,12,2024-09-19T19:10:00,Mets,Phillies,Phillies
+73010,31,4,2024-09-19T19:15:00,Cardinals,Pirates,Pirates
+73013,9,35,2024-09-19T19:40:00,Cubs,Nationals,Nationals
+73003,32,14,2024-09-19T19:40:00,Brewers,Diamondbacks,Diamondbacks
+73002,30,21,2024-09-19T20:10:00,Astros,Angels,Angels
+73028,9,35,2024-09-20T14:20:00,Cubs,Nationals,Nationals
+73024,2,4,2024-09-20T18:40:00,Reds,Pirates,Pirates
+73027,11,3,2024-09-20T18:50:00,Rays,Blue Jays,Blue Jays
+73020,19,17,2024-09-20T19:05:00,Orioles,Tigers,Tigers
+73021,25,20,2024-09-20T19:10:00,Red Sox,Twins,Twins
+73016,22,26,2024-09-20T19:10:00,Marlins,Braves,Braves
+73023,18,12,2024-09-20T19:10:00,Mets,Phillies,Phillies
+73025,28,13,2024-09-20T20:05:00,Rangers,Mariners,Mariners
+73014,30,21,2024-09-20T20:10:00,Astros,Angels,Angels
+73026,5,15,2024-09-20T20:10:00,Royals,Giants,Giants
+73015,32,14,2024-09-20T20:10:00,Brewers,Diamondbacks,Diamondbacks
+73018,31,10,2024-09-20T20:15:00,Cardinals,Guardians,Guardians
+73022,24,29,2024-09-20T21:40:00,Athletics,Yankees,Yankees
+73017,33,16,2024-09-20T21:40:00,Padres,White Sox,White Sox
+73019,1,23,2024-09-20T22:10:00,Dodgers,Rockies,Rockies
+73039,2,4,2024-09-21T13:10:00,Reds,Pirates,Pirates
+73043,9,35,2024-09-21T14:20:00,Cubs,Nationals,Nationals
+73035,19,17,2024-09-21T16:05:00,Orioles,Tigers,Tigers
+73036,25,20,2024-09-21T16:10:00,Red Sox,Twins,Twins
+73031,22,26,2024-09-21T16:10:00,Marlins,Braves,Braves
+73038,18,12,2024-09-21T16:10:00,Mets,Phillies,Phillies
+73042,11,3,2024-09-21T16:10:00,Rays,Blue Jays,Blue Jays
+73040,28,13,2024-09-21T19:05:00,Rangers,Mariners,Mariners
+73029,30,21,2024-09-21T19:10:00,Astros,Angels,Angels
+73041,5,15,2024-09-21T19:10:00,Royals,Giants,Giants
+73030,32,14,2024-09-21T19:10:00,Brewers,Diamondbacks,Diamondbacks
+73033,31,10,2024-09-21T19:15:00,Cardinals,Guardians,Guardians
+73032,33,16,2024-09-21T20:40:00,Padres,White Sox,White Sox
+73037,24,29,2024-09-21T21:07:00,Athletics,Yankees,Yankees
+73034,1,23,2024-09-21T21:10:00,Dodgers,Rockies,Rockies
+73054,2,4,2024-09-22T13:10:00,Reds,Pirates,Pirates
+73050,19,17,2024-09-22T13:35:00,Orioles,Tigers,Tigers
+73051,25,20,2024-09-22T13:35:00,Red Sox,Twins,Twins
+73046,22,26,2024-09-22T13:40:00,Marlins,Braves,Braves
+73053,18,12,2024-09-22T13:40:00,Mets,Phillies,Phillies
+73057,11,3,2024-09-22T13:40:00,Rays,Blue Jays,Blue Jays
+73044,30,21,2024-09-22T14:10:00,Astros,Angels,Angels
+73056,5,15,2024-09-22T14:10:00,Royals,Giants,Giants
+73045,32,14,2024-09-22T14:10:00,Brewers,Diamondbacks,Diamondbacks
+73048,31,10,2024-09-22T14:15:00,Cardinals,Guardians,Guardians
+73058,9,35,2024-09-22T14:20:00,Cubs,Nationals,Nationals
+73055,28,13,2024-09-22T14:35:00,Rangers,Mariners,Mariners
+73052,24,29,2024-09-22T16:07:00,Athletics,Yankees,Yankees
+73049,1,23,2024-09-22T16:10:00,Dodgers,Rockies,Rockies
+73047,33,16,2024-09-22T16:10:00,Padres,White Sox,White Sox
+73060,12,9,2024-09-23T18:40:00,Phillies,Cubs,Cubs
+73059,3,25,2024-09-23T19:07:00,Blue Jays,Red Sox,Red Sox
+73061,30,13,2024-09-23T20:10:00,Astros,Mariners,Mariners
+73062,14,15,2024-09-23T21:40:00,Diamondbacks,Giants,Giants
+73067,10,2,2024-09-24T18:40:00,Guardians,Reds,Reds
+73076,17,11,2024-09-24T18:40:00,Tigers,Rays,Rays
+73066,12,9,2024-09-24T18:40:00,Phillies,Cubs,Cubs
+73070,4,32,2024-09-24T18:40:00,Pirates,Brewers,Brewers
+73068,35,5,2024-09-24T18:45:00,Nationals,Royals,Royals
+73064,29,19,2024-09-24T19:05:00,Yankees,Orioles,Orioles
+73065,3,25,2024-09-24T19:07:00,Blue Jays,Red Sox,Red Sox
+73071,26,18,2024-09-24T19:20:00,Braves,Mets,Mets
+73063,16,21,2024-09-24T19:40:00,White Sox,Angels,Angels
+73069,20,22,2024-09-24T19:40:00,Twins,Marlins,Marlins
+73073,30,13,2024-09-24T20:10:00,Astros,Mariners,Mariners
+73075,23,31,2024-09-24T20:40:00,Rockies,Cardinals,Cardinals
+73074,14,15,2024-09-24T21:40:00,Diamondbacks,Giants,Giants
+73077,24,28,2024-09-24T21:40:00,Athletics,Rangers,Rangers
+73072,1,33,2024-09-24T22:10:00,Dodgers,Padres,Padres
+73088,30,13,2024-09-25T14:10:00,Astros,Mariners,Mariners
+73081,12,9,2024-09-25T18:05:00,Phillies,Cubs,Cubs
+73082,10,2,2024-09-25T18:40:00,Guardians,Reds,Reds
+73091,17,11,2024-09-25T18:40:00,Tigers,Rays,Rays
+73085,4,32,2024-09-25T18:40:00,Pirates,Brewers,Brewers
+73083,35,5,2024-09-25T18:45:00,Nationals,Royals,Royals
+73079,29,19,2024-09-25T19:05:00,Yankees,Orioles,Orioles
+73080,3,25,2024-09-25T19:07:00,Blue Jays,Red Sox,Red Sox
+73086,26,18,2024-09-25T19:20:00,Braves,Mets,Mets
+73078,16,21,2024-09-25T19:40:00,White Sox,Angels,Angels
+73084,20,22,2024-09-25T19:40:00,Twins,Marlins,Marlins
+73090,23,31,2024-09-25T20:40:00,Rockies,Cardinals,Cardinals
+73089,14,15,2024-09-25T21:40:00,Diamondbacks,Giants,Giants
+73092,24,28,2024-09-25T21:40:00,Athletics,Rangers,Rangers
+73087,1,33,2024-09-25T22:10:00,Dodgers,Padres,Padres
+73097,4,32,2024-09-26T12:35:00,Pirates,Brewers,Brewers
+73095,35,5,2024-09-26T13:05:00,Nationals,Royals,Royals
+73100,17,11,2024-09-26T13:10:00,Tigers,Rays,Rays
+73093,16,21,2024-09-26T14:10:00,White Sox,Angels,Angels
+73099,23,31,2024-09-26T15:10:00,Rockies,Cardinals,Cardinals
+73101,24,28,2024-09-26T15:37:00,Athletics,Rangers,Rangers
+73094,29,19,2024-09-26T19:05:00,Yankees,Orioles,Orioles
+73721,26,18,2024-09-26T19:20:00,Braves,Mets,Mets
+73096,20,22,2024-09-26T19:40:00,Twins,Marlins,Marlins
+73098,1,33,2024-09-26T22:10:00,Dodgers,Padres,Padres
+73104,9,2,2024-09-27T14:20:00,Cubs,Reds,Reds
+73103,17,16,2024-09-27T18:40:00,Tigers,White Sox,White Sox
+73111,35,12,2024-09-27T18:45:00,Nationals,Phillies,Phillies
+73112,29,4,2024-09-27T19:05:00,Yankees,Pirates,Pirates
+73108,3,22,2024-09-27T19:07:00,Blue Jays,Marlins,Marlins
+73115,25,11,2024-09-27T19:10:00,Red Sox,Rays,Rays
+73105,10,30,2024-09-27T19:10:00,Guardians,Astros,Astros
+73106,26,5,2024-09-27T19:20:00,Braves,Royals,Royals
+73107,23,1,2024-09-27T20:10:00,Rockies,Dodgers,Dodgers
+73109,32,18,2024-09-27T20:10:00,Brewers,Mets,Mets
+73102,20,19,2024-09-27T20:10:00,Twins,Orioles,Orioles
+73116,21,28,2024-09-27T21:38:00,Angels,Rangers,Rangers
+73113,14,33,2024-09-27T21:40:00,Diamondbacks,Padres,Padres
+73110,13,24,2024-09-27T22:10:00,Mariners,Athletics,Athletics
+73114,15,31,2024-09-27T22:15:00,Giants,Cardinals,Cardinals
+73127,29,4,2024-09-28T13:05:00,Yankees,Pirates,Pirates
+73118,17,16,2024-09-28T13:10:00,Tigers,White Sox,White Sox
+73117,20,19,2024-09-28T14:10:00,Twins,Orioles,Orioles
+73119,9,2,2024-09-28T14:20:00,Cubs,Reds,Reds
+73123,3,22,2024-09-28T15:07:00,Blue Jays,Marlins,Marlins
+73129,15,31,2024-09-28T16:05:00,Giants,Cardinals,Cardinals
+73126,35,12,2024-09-28T16:05:00,Nationals,Phillies,Phillies
+73130,25,11,2024-09-28T16:10:00,Red Sox,Rays,Rays
+73120,10,30,2024-09-28T18:10:00,Guardians,Astros,Astros
+73124,32,18,2024-09-28T19:10:00,Brewers,Mets,Mets
+73121,26,5,2024-09-28T19:20:00,Braves,Royals,Royals
+73128,14,33,2024-09-28T20:10:00,Diamondbacks,Padres,Padres
+73122,23,1,2024-09-28T20:10:00,Rockies,Dodgers,Dodgers
+73131,21,28,2024-09-28T21:38:00,Angels,Rangers,Rangers
+73125,13,24,2024-09-28T21:40:00,Mariners,Athletics,Athletics
+73145,25,11,2024-09-29T15:05:00,Red Sox,Rays,Rays
+73142,29,4,2024-09-29T15:05:00,Yankees,Pirates,Pirates
+73144,15,31,2024-09-29T15:05:00,Giants,Cardinals,Cardinals
+73141,35,12,2024-09-29T15:05:00,Nationals,Phillies,Phillies
+73146,21,28,2024-09-29T15:07:00,Angels,Rangers,Rangers
+73138,3,22,2024-09-29T15:07:00,Blue Jays,Marlins,Marlins
+73143,14,33,2024-09-29T15:10:00,Diamondbacks,Padres,Padres
+73135,10,30,2024-09-29T15:10:00,Guardians,Astros,Astros
+73137,23,1,2024-09-29T15:10:00,Rockies,Dodgers,Dodgers
+73133,17,16,2024-09-29T15:10:00,Tigers,White Sox,White Sox
+73139,32,18,2024-09-29T15:10:00,Brewers,Mets,Mets
+73132,20,19,2024-09-29T15:10:00,Twins,Orioles,Orioles
+73140,13,24,2024-09-29T15:10:00,Mariners,Athletics,Athletics
+73136,26,5,2024-09-29T15:20:00,Braves,Royals,Royals
+73134,9,2,2024-09-29T15:20:00,Cubs,Reds,Reds

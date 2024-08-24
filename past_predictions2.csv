@@ -2,15 +2,11 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 73692,33,1,2024-03-20T06:05:00,Padres,Dodgers,Dodgers,Dodgers,Correct
 73694,1,33,2024-03-21T06:05:00,Dodgers,Padres,Padres,Padres,Correct
 70726,18,32,2024-03-28T13:10:00,Mets,Brewers,Brewers,,Incorrect
-70719,19,21,2024-03-28T15:05:00,Orioles,Angels,Angels,Orioles,Incorrect
-70720,12,26,2024-03-28T15:05:00,Phillies,Braves,Braves,,Incorrect
 70725,16,17,2024-03-28T16:10:00,White Sox,Tigers,Tigers,Tigers,Correct
 70733,2,35,2024-03-28T16:10:00,Reds,Nationals,Nationals,Reds,Incorrect
 70728,30,29,2024-03-28T16:10:00,Astros,Yankees,Yankees,Yankees,Correct
 70727,5,20,2024-03-28T16:10:00,Royals,Twins,Twins,Twins,Correct
-70731,1,31,2024-03-28T16:10:00,Dodgers,Cardinals,Cardinals,Dodgers,Incorrect
 70729,22,4,2024-03-28T16:10:00,Marlins,Pirates,Pirates,Pirates,Correct
-70730,33,15,2024-03-28T16:10:00,Padres,Giants,Giants,Padres,Incorrect
 70732,11,3,2024-03-28T16:10:00,Rays,Blue Jays,Blue Jays,Blue Jays,Correct
 70722,28,9,2024-03-28T19:35:00,Rangers,Cubs,Cubs,Rangers,Incorrect
 70723,24,10,2024-03-28T22:07:00,Athletics,Guardians,Guardians,Guardians,Correct
@@ -24,7 +20,6 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70736,14,23,2024-03-29T21:40:00,Diamondbacks,Rockies,Rockies,Diamondbacks,Incorrect
 70735,24,10,2024-03-29T21:40:00,Athletics,Guardians,Guardians,Guardians,Correct
 70739,33,15,2024-03-29T21:40:00,Padres,Giants,Giants,Giants,Correct
-70734,13,25,2024-03-29T21:40:00,Mariners,Red Sox,Red Sox,Mariners,Incorrect
 70740,1,31,2024-03-29T22:10:00,Dodgers,Cardinals,Cardinals,Dodgers,Incorrect
 70749,18,32,2024-03-30T13:40:00,Mets,Brewers,Brewers,Brewers,Correct
 70748,16,17,2024-03-30T14:10:00,White Sox,Tigers,Tigers,Tigers,Correct
@@ -34,7 +29,6 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70756,2,35,2024-03-30T16:10:00,Reds,Nationals,Nationals,Nationals,Correct
 70750,5,20,2024-03-30T16:10:00,Royals,Twins,Twins,Twins,Correct
 70752,22,4,2024-03-30T16:10:00,Marlins,Pirates,Pirates,Pirates,Correct
-70755,11,3,2024-03-30T16:10:00,Rays,Blue Jays,Blue Jays,Rays,Incorrect
 70745,28,9,2024-03-30T19:05:00,Rangers,Cubs,Cubs,Rangers,Incorrect
 70751,30,29,2024-03-30T19:15:00,Astros,Yankees,Yankees,Yankees,Correct
 70753,33,15,2024-03-30T19:15:00,Padres,Giants,Giants,Giants,Correct
@@ -42,7 +36,6 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70754,1,31,2024-03-30T21:10:00,Dodgers,Cardinals,Cardinals,Cardinals,Correct
 70744,13,25,2024-03-30T21:40:00,Mariners,Red Sox,Red Sox,Mariners,Incorrect
 70757,19,21,2024-03-31T13:35:00,Orioles,Angels,Angels,Angels,Correct
-70758,12,26,2024-03-31T13:35:00,Phillies,Braves,Braves,Phillies,Incorrect
 70771,2,35,2024-03-31T13:40:00,Reds,Nationals,Nationals,Reds,Incorrect
 70767,22,4,2024-03-31T13:40:00,Marlins,Pirates,Pirates,Pirates,Correct
 70764,18,32,2024-03-31T13:40:00,Mets,Brewers,Brewers,Brewers,Correct

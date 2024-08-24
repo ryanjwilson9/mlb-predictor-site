@@ -67,10 +67,7 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70793,19,5,2024-04-02T18:35:00,Orioles,Royals,Royals,Royals,Correct
 70786,22,21,2024-04-02T18:40:00,Marlins,Angels,Angels,Angels,Correct
 70789,12,2,2024-04-02T18:40:00,Phillies,Reds,Reds,Phillies,Incorrect
-70798,11,28,2024-04-02T18:50:00,Rays,Rangers,Rangers,Rays,Incorrect
-70792,18,17,2024-04-02T19:10:00,Mets,Tigers,Tigers,,Incorrect
 70791,9,23,2024-04-02T19:40:00,Cubs,Rockies,Rockies,Cubs,Incorrect
-70787,16,26,2024-04-02T19:40:00,White Sox,Braves,Braves,White Sox,Incorrect
 70799,30,3,2024-04-02T20:10:00,Astros,Blue Jays,Blue Jays,Blue Jays,Correct
 70795,14,29,2024-04-02T21:40:00,Diamondbacks,Yankees,Yankees,Diamondbacks,Incorrect
 70788,24,25,2024-04-02T21:40:00,Athletics,Red Sox,Red Sox,Red Sox,Correct
@@ -85,13 +82,11 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70802,24,25,2024-04-03T15:37:00,Athletics,Red Sox,Red Sox,Red Sox,Correct
 70809,14,29,2024-04-03T15:40:00,Diamondbacks,Yankees,Yankees,Yankees,Correct
 70803,12,2,2024-04-03T16:05:00,Phillies,Reds,Reds,Reds,Correct
-70812,33,31,2024-04-03T16:10:00,Padres,Cardinals,Cardinals,Padres,Incorrect
 70804,13,10,2024-04-03T16:10:00,Mariners,Guardians,Guardians,Guardians,Correct
 70810,35,4,2024-04-03T18:45:00,Nationals,Pirates,Pirates,Nationals,Incorrect
 70806,18,17,2024-04-03T19:10:00,Mets,Tigers,Tigers,,Incorrect
 70805,9,23,2024-04-03T19:40:00,Cubs,Rockies,Rockies,Rockies,Correct
 70814,30,3,2024-04-03T20:10:00,Astros,Blue Jays,Blue Jays,Astros,Incorrect
-70811,1,15,2024-04-03T22:10:00,Dodgers,Giants,Giants,Dodgers,Incorrect
 73717,18,17,2024-04-04T12:10:00,Mets,Tigers,Tigers,Tigers,Correct
 70818,35,4,2024-04-04T16:05:00,Nationals,Pirates,Pirates,Pirates,Correct
 70816,20,10,2024-04-04T16:10:00,Twins,Guardians,Guardians,Guardians,Correct
@@ -107,9 +102,6 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70825,2,18,2024-04-05T18:40:00,Reds,Mets,Mets,Mets,Correct
 70827,35,12,2024-04-05T18:45:00,Nationals,Phillies,Phillies,Phillies,Correct
 70819,26,14,2024-04-05T19:20:00,Braves,Diamondbacks,Diamondbacks,Braves,Incorrect
-70822,5,16,2024-04-05T19:40:00,Royals,White Sox,White Sox,Royals,Incorrect
-70823,28,30,2024-04-05T20:05:00,Rangers,Astros,Astros,Rangers,Incorrect
-70829,32,13,2024-04-05T20:10:00,Brewers,Mariners,Mariners,Brewers,Incorrect
 70821,21,25,2024-04-05T21:38:00,Angels,Red Sox,Red Sox,Red Sox,Correct
 70841,17,24,2024-04-06T13:10:00,Tigers,Athletics,Athletics,Athletics,Correct
 70836,20,10,2024-04-06T14:10:00,Twins,Guardians,Guardians,Guardians,Correct
@@ -127,9 +119,6 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70843,15,33,2024-04-06T21:05:00,Giants,Padres,Padres,Padres,Correct
 70834,21,25,2024-04-06T21:38:00,Angels,Red Sox,Red Sox,Angels,Incorrect
 70847,26,14,2024-04-07T13:35:00,Braves,Diamondbacks,Diamondbacks,Braves,Incorrect
-70861,29,3,2024-04-07T13:35:00,Yankees,Blue Jays,Blue Jays,Yankees,Incorrect
-70848,4,19,2024-04-07T13:35:00,Pirates,Orioles,Orioles,Pirates,Incorrect
-70857,35,12,2024-04-07T13:35:00,Nationals,Phillies,Phillies,Nationals,Incorrect
 70855,2,18,2024-04-07T13:40:00,Reds,Mets,Mets,Mets,Correct
 70856,17,24,2024-04-07T13:40:00,Tigers,Athletics,Athletics,Athletics,Correct
 70850,5,16,2024-04-07T14:10:00,Royals,White Sox,White Sox,Royals,Incorrect
@@ -214,16 +203,9 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70939,30,28,2024-04-13T16:05:00,Astros,Rangers,Rangers,Astros,Incorrect
 70935,12,4,2024-04-13T16:05:00,Phillies,Pirates,Pirates,Phillies,Incorrect
 70940,24,35,2024-04-13T16:07:00,Athletics,Nationals,Nationals,Nationals,Correct
-70926,25,21,2024-04-13T16:10:00,Red Sox,Angels,Angels,Red Sox,Incorrect
-70927,22,26,2024-04-13T16:10:00,Marlins,Braves,Braves,Marlins,Incorrect
 70937,11,15,2024-04-13T16:10:00,Rays,Giants,Giants,Giants,Correct
 73722,17,20,2024-04-13T17:05:00,Tigers,Twins,Twins,Twins,Correct
 73724,10,29,2024-04-13T18:10:00,Guardians,Yankees,Yankees,Yankees,Correct
-70938,14,31,2024-04-13T20:10:00,Diamondbacks,Cardinals,Cardinals,Diamondbacks,Incorrect
-70936,1,33,2024-04-13T21:10:00,Dodgers,Padres,Padres,Dodgers,Incorrect
-70928,13,9,2024-04-13T21:40:00,Mariners,Cubs,Cubs,Cubs,Correct
-70947,19,32,2024-04-14T13:35:00,Orioles,Brewers,Brewers,Orioles,Incorrect
-70941,25,21,2024-04-14T13:35:00,Red Sox,Angels,Angels,Red Sox,Incorrect
 70950,12,4,2024-04-14T13:35:00,Phillies,Pirates,Pirates,Pirates,Correct
 70945,3,23,2024-04-14T13:37:00,Blue Jays,Rockies,Rockies,Blue Jays,Incorrect
 70949,10,29,2024-04-14T13:40:00,Guardians,Yankees,Yankees,Guardians,Incorrect
@@ -250,14 +232,6 @@ GameID,HomeTeamID,AwayTeamID,DateTime,HomeTeam,AwayTeam,PredictedWinner,TrueWinn
 70957,30,26,2024-04-15T20:10:00,Astros,Braves,Braves,Braves,Correct
 70958,14,9,2024-04-15T21:40:00,Diamondbacks,Cubs,Cubs,Cubs,Correct
 70968,24,31,2024-04-15T21:40:00,Athletics,Cardinals,Cardinals,Cardinals,Correct
-70959,13,2,2024-04-15T21:42:00,Mariners,Reds,Reds,Mariners,Incorrect
-70970,1,35,2024-04-15T22:10:00,Dodgers,Nationals,Nationals,Nationals,Correct
-70984,17,28,2024-04-16T13:10:00,Tigers,Rangers,Rangers,Tigers,Incorrect
-70978,19,20,2024-04-16T18:35:00,Orioles,Twins,Twins,Orioles,Incorrect
-70982,22,15,2024-04-16T18:40:00,Marlins,Giants,Giants,Marlins,Incorrect
-70976,12,23,2024-04-16T18:40:00,Phillies,Rockies,Rockies,Phillies,Incorrect
-70971,11,21,2024-04-16T18:50:00,Rays,Angels,Angels,Rays,Incorrect
-70979,3,29,2024-04-16T19:07:00,Blue Jays,Yankees,Yankees,Blue Jays,Incorrect
 70975,25,10,2024-04-16T19:10:00,Red Sox,Guardians,Guardians,Guardians,Correct
 70980,18,4,2024-04-16T19:10:00,Mets,Pirates,Pirates,Mets,Incorrect
 70977,16,5,2024-04-16T19:40:00,White Sox,Royals,Royals,,Incorrect

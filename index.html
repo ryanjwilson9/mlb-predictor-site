@@ -158,16 +158,16 @@
                         tr.appendChild(dateCell);
 
                         var homeTeamCell = document.createElement("td");
-                        homeTeamCell.innerHTML = `<img src="mlb_logos/${row['HomeTeamID']}.png" style="width:50px; height:50px;" class="team-logo">`;
+                        homeTeamCell.innerHTML = `<img src="mlb_logos/${row['HomeTeamID']}.png" style="width:60px; height:50px;" class="team-logo">`;
                         tr.appendChild(homeTeamCell);
 
                         var awayTeamCell = document.createElement("td");
-                        awayTeamCell.innerHTML = `<img src="mlb_logos/${row['AwayTeamID']}.png" style="width:50px; height:50px;" class="team-logo">`;
+                        awayTeamCell.innerHTML = `<img src="mlb_logos/${row['AwayTeamID']}.png" style="width:60px; height:50px;" class="team-logo">`;
                         tr.appendChild(awayTeamCell);
 
                         var predictedWinnerCell = document.createElement("td");
                         var predictedWinnerID = row['HomeTeamID'] === row['PredictedWinner'] ? row['HomeTeamID'] : row['AwayTeamID'];
-                        predictedWinnerCell.innerHTML = `<img src="mlb_logos/${predictedWinnerID}.png" style="width:50px; height:50px;" class="team-logo">`;
+                        predictedWinnerCell.innerHTML = `<img src="mlb_logos/${predictedWinnerID}.png" style="width:60px; height:50px;" class="team-logo">`;
                         tr.appendChild(predictedWinnerCell);
 
                         if (isPast) {
